@@ -31,4 +31,4 @@ The original concept for this experiment had a clear objective. **To get as much
 
 **THE TAKE AWAY**
 
-Feedback is priceless. Finding innovative ways to promote sharing feedback is worth the struggle.
+Feedback is priceless. Finding innovative ways to promote sharing opinions will enrich the process and contribute to the shared vision teams need to improve.
