@@ -1,4 +1,4 @@
-# (Hybrid Theory)[https://rpmxh.github.io/hybrid-theory/]
+# [Hybrid Theory](https://rpmxh.github.io/hybrid-theory/)
 
 Interesting Experiments Worth Sharing
 
