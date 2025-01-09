@@ -1,5 +1,7 @@
 # Big Picture Feedback, No Names Needed
 
+![Silhouettes talking provide pieces of a bigger puzzle](chatham-talks-banner.webp)
+
 Safe spaces empower people to share new and diverse feedback. In a recent experiment, I had a series of face to face talks with team members, where their words would remain nameless. By paying attention to the details, a bigger picture emerged.
 
 **WHY IT MATTERS**
