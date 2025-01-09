@@ -2,4 +2,4 @@
 Interesting Experiments Worth Sharing
 
 Experiments:
-* [Chatham Talks](experiments/chatham-talks/chatham-talks-article.md)
+* [Chatham Talks - Big Picture Feedback, No Names Needed](experiments/chatham-talks/chatham-talks-article.md)
