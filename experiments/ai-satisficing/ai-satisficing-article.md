@@ -22,16 +22,11 @@ While preparing the curriculum for my recent Prompt Engineering training, I real
 
 ### What is AI Satisficing?
 
-Herbert Simon originally coined "satisficing" to describe settling for an option that is "adequate" rather than optimizing for the best result. Jeremy Utley applies the concept of satisficing to AI and Large Language Models (LLMs).
+Herbert Simon originally coined "satisficing" to describe settling for an option that is "adequate" rather than optimizing for the best result. Jeremy Utley applies this concept to AI and Large Language Models (LLMs), framing it as a cognitive bias. I see it as something more dangerous—a dark pattern.
 
-But while Utley frames it as a cognitive bias, I see it as something more dangerous—a dark pattern.
+In the early days of LLMs, users had to employ advanced techniques—personas, rich context, clear constraints—just to get coherent answers. Now, with the latest models instantly generating "good enough" responses, we stop iterating and refining. Our prompts become lazier, and the model compensates for our decreasing effort.
 
-When LLMs were primitive, we *had* to use advanced techniques—personas, rich context, clear constraints—just to get coherent answers.
-
-With the latest LLMs instantly generating "good enough" answers, we stop iterating. Why refine what's already serviceable? Gradually, our prompts become lazier—the model compensates for our decreasing effort.
-
-**This is the trap.** Because the output is "sufficient," we accept the model's first draft as the final product. We let the model's baseline become our ceiling.
-
+**This is the trap.** Because the output is "sufficient," we accept the model's first draft as the final product, letting the model's baseline become our ceiling.
 ### The Gateway Drug
 
 I view AI Satisficing as a gateway drug to cognitive atrophy—and like any addiction, we don't notice the dependency until it's too late.
