@@ -8,9 +8,9 @@ The most dangerous thing about modern AI isn't what it can't do—it's what it d
 
 ## Why It Matters
 
-- **Cognitive atrophy is accelerating**. When AI's first draft is "good enough," the critical thinking muscles stop exercising, no longer distinguishing excellent work from adequate work. Like a body that stops moving, a mind that stops pushing atrophies.
+- **Cognitive atrophy is accelerating**. When AI's first draft is "good enough," we stop exercising the critical thinking muscles that distinguish excellent work from adequate work. Like a body that stops moving, a mind that stops pushing atrophies.
 - **The competitive edge is eroding**. Everyone has access to the same AI tools. The differentiator isn't the model—it's the ability to extract exceptional results through rigorous prompting, iteration, and judgment. Satisficing eliminates that advantage.
-- **"Good enough" becomes the ceiling, not the floor**. When accepting AI's baseline output as the final product, standards get lower. Excellence requires effort—and AI Satisficing simplifies the avoidance of that effort.
+- **"Good enough" becomes the ceiling, not the floor**. When we accept AI's baseline output as the final product, we collectively lower our standards. Excellence requires effort—and AI Satisficing makes it easy to avoid that effort.
 
 ## The Backstory
 
@@ -38,7 +38,7 @@ I view AI Satisficing as a gateway drug to cognitive atrophy—and like any addi
 
 The pattern is seductive: each LLM response generates a dopamine hit of instant answers. Each "good enough" response reinforces the behavior. Why struggle when satisfaction is one click away?
 
-But here's what at stake:
+But here's what's at stake:
 
 - **First, the habit of iteration**—we forget that first drafts are meant to be terrible
 - **Then, the instinct to question**—why scrutinize what's already coherent?
